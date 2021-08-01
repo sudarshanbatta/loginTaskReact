@@ -1,0 +1,20 @@
+.formContainer{
+
+}
+.error-format{
+  color:red;
+  text-align:center;
+  font-size: 14px;
+  margin-top: 10px;;
+}
+.input-feedback{
+    color:red;
+    font-size: 14px;
+}
+  .title{
+    text-align: center;
+  }
+  .user-icon{
+    margin-top: 40px;
+    text-align: center;
+  }
